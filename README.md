@@ -18,3 +18,8 @@ This project is intended for educational purposes as part of the University of T
 - **Kaggle**: For providing the Titanic dataset and competition framework.
 - **Matsuo-Iwasawa Laboratory**: For the assignment guidance and support.
 
+## Reference
+
+- **Matsuo Lab: Matsuo-Iwasawa Laboratory**
+- **Assited by ChatGPT**
+
