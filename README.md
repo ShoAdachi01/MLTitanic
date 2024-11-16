@@ -1,6 +1,6 @@
 # Titanic Machine Learning Project
 
-This project is part of the **Kaggle Titanic Challenge**, a requirement for the **University of Tokyo Matsuo-Iwasawa Laboratory's Global Consumer Intelligence Courses**. The challenge is to use machine learning to predict which passengers survived the Titanic shipwreck.
+This project is part of the **Kaggle Titanic Challenge**, a requirement for the **University of Tokyo Matsuo-Iwasawa Laboratory's Global Consumer Intelligence Course**. The challenge is to use machine learning to predict which passengers survived the Titanic shipwreck.
 
 ## Project Overview
 
