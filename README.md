@@ -10,6 +10,7 @@ The Titanic Machine Learning Project aims to predict passenger survival using va
 
 - **Random Forest Classifier**
 - **Logistic Regression**
+- **Extreme Gradient Boosting**
 
 
 ## License
